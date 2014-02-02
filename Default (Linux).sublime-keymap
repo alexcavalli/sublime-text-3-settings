@@ -9,4 +9,8 @@
     ]
   },
   { "keys": ["shift+delete"], "command": "right_delete" },
+  { "keys": ["ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 ]
