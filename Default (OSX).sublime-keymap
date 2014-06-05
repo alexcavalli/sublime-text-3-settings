@@ -12,6 +12,7 @@
   { "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
   { "keys": ["super+shift+p"], "command": "show_scope_name" },
+  { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
 
   { "keys": ["ctrl+left"], "command": "move", "args": {"by": "words", "forward": false} },
   { "keys": ["ctrl+right"], "command": "move", "args": {"by": "word_ends", "forward": true} },
@@ -39,4 +40,9 @@
 
   { "keys": ["ctrl+shift+l"], "command": "split_selection_into_lines" },
   { "keys": ["ctrl+n"], "command": "new_file" },
+
+  { "keys": ["alt+`"], "command": "focus_neighboring_group" },
+
+  { "keys": ["super+\\"], "command": "alignment" },
 ]
+
