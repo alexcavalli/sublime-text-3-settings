@@ -1,14 +1,33 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Alignment",
-		"Better CoffeeScript",
+		"AutoWrap",
+		"Babel",
 		"BracketHighlighter",
-		"Emmet",
+		"CSS Extended Completions",
+		"Dockerfile Syntax Highlighting",
+		"Elixir",
+		"EncodingHelper",
+		"ESLint-Formatter",
 		"JavaScript & NodeJS Snippets",
-		"LESS",
+		"MarkdownPreview",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
 		"RSpec",
-		"Ruby Slim",
-		"SublimeGit"
+		"SCSS",
+		"SqlBeautifier",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-contrib-elixirc",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop"
 	]
 }
