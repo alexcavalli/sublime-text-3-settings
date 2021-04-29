@@ -2,32 +2,15 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"EncodingHelper"
 	],
 	"installed_packages":
 	[
 		"Advanced CSV",
-		"Alignment",
-		"AutoWrap",
-		"Babel",
-		"BracketHighlighter",
-		"CSS Extended Completions",
-		"Dockerfile Syntax Highlighting",
-		"Elixir",
 		"EncodingHelper",
-		"ESLint-Formatter",
-		"JavaScript & NodeJS Snippets",
-		"MarkdownPreview",
 		"Package Control",
 		"Pretty JSON",
-		"ProjectManager",
-		"RSpec",
-		"SCSS",
 		"SqlBeautifier",
-		"SublimeGit",
-		"SublimeLinter",
-		"SublimeLinter-contrib-elixirc",
-		"SublimeLinter-csslint",
-		"SublimeLinter-eslint",
-		"SublimeLinter-rubocop"
+		"SublimeGit"
 	]
 }
